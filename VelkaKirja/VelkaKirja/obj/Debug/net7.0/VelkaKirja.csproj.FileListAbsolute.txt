@@ -1,0 +1,15 @@
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\bin\Debug\net7.0\VelkaKirja.exe
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\bin\Debug\net7.0\VelkaKirja.deps.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\bin\Debug\net7.0\VelkaKirja.runtimeconfig.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\bin\Debug\net7.0\VelkaKirja.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\bin\Debug\net7.0\VelkaKirja.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\obj\Debug\net7.0\VelkaKirja.csproj.AssemblyReference.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\obj\Debug\net7.0\VelkaKirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\obj\Debug\net7.0\VelkaKirja.AssemblyInfoInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\obj\Debug\net7.0\VelkaKirja.AssemblyInfo.cs
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\obj\Debug\net7.0\VelkaKirja.csproj.CoreCompileInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\obj\Debug\net7.0\VelkaKirja.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\obj\Debug\net7.0\refint\VelkaKirja.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\obj\Debug\net7.0\VelkaKirja.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\obj\Debug\net7.0\VelkaKirja.genruntimeconfig.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\VelkaKirja\VelkaKirja\obj\Debug\net7.0\ref\VelkaKirja.dll

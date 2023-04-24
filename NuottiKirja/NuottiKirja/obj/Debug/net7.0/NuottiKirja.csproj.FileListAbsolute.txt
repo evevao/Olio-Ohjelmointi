@@ -1,0 +1,15 @@
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\bin\Debug\net7.0\NuottiKirja.exe
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\bin\Debug\net7.0\NuottiKirja.deps.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\bin\Debug\net7.0\NuottiKirja.runtimeconfig.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\bin\Debug\net7.0\NuottiKirja.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\bin\Debug\net7.0\NuottiKirja.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\obj\Debug\net7.0\NuottiKirja.csproj.AssemblyReference.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\obj\Debug\net7.0\NuottiKirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\obj\Debug\net7.0\NuottiKirja.AssemblyInfoInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\obj\Debug\net7.0\NuottiKirja.AssemblyInfo.cs
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\obj\Debug\net7.0\NuottiKirja.csproj.CoreCompileInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\obj\Debug\net7.0\NuottiKirja.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\obj\Debug\net7.0\refint\NuottiKirja.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\obj\Debug\net7.0\NuottiKirja.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\obj\Debug\net7.0\NuottiKirja.genruntimeconfig.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\NuottiKirja\NuottiKirja\obj\Debug\net7.0\ref\NuottiKirja.dll

@@ -1,0 +1,15 @@
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\bin\Debug\net7.0\Kauppa.exe
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\bin\Debug\net7.0\Kauppa.deps.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\bin\Debug\net7.0\Kauppa.runtimeconfig.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\bin\Debug\net7.0\Kauppa.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\bin\Debug\net7.0\Kauppa.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\obj\Debug\net7.0\Kauppa.csproj.AssemblyReference.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\obj\Debug\net7.0\Kauppa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\obj\Debug\net7.0\Kauppa.AssemblyInfoInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\obj\Debug\net7.0\Kauppa.AssemblyInfo.cs
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\obj\Debug\net7.0\Kauppa.csproj.CoreCompileInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\obj\Debug\net7.0\Kauppa.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\obj\Debug\net7.0\refint\Kauppa.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\obj\Debug\net7.0\Kauppa.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\obj\Debug\net7.0\Kauppa.genruntimeconfig.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Kauppa\Kauppa\obj\Debug\net7.0\ref\Kauppa.dll

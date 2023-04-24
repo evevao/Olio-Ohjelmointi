@@ -1,0 +1,8 @@
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\Elaimet\bin\Release\Elaimet.exe.config
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\Elaimet\bin\Release\Elaimet.exe
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\Elaimet\bin\Release\Elaimet.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\Elaimet\obj\Release\Tehtävä1.csproj.AssemblyReference.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\Elaimet\obj\Release\Tehtävä1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\Elaimet\obj\Release\Tehtävä1.csproj.CoreCompileInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\Elaimet\obj\Release\Elaimet.exe
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\Elaimet\obj\Release\Elaimet.pdb

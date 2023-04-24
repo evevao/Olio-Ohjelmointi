@@ -1,0 +1,15 @@
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\bin\Debug\net7.0\LounasMaksu.exe
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\bin\Debug\net7.0\LounasMaksu.deps.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\bin\Debug\net7.0\LounasMaksu.runtimeconfig.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\bin\Debug\net7.0\LounasMaksu.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\bin\Debug\net7.0\LounasMaksu.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\obj\Debug\net7.0\LounasMaksu.csproj.AssemblyReference.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\obj\Debug\net7.0\LounasMaksu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\obj\Debug\net7.0\LounasMaksu.AssemblyInfoInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\obj\Debug\net7.0\LounasMaksu.AssemblyInfo.cs
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\obj\Debug\net7.0\LounasMaksu.csproj.CoreCompileInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\obj\Debug\net7.0\LounasMaksu.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\obj\Debug\net7.0\refint\LounasMaksu.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\obj\Debug\net7.0\LounasMaksu.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\obj\Debug\net7.0\LounasMaksu.genruntimeconfig.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\LounasMaksu\LounasMaksu\obj\Debug\net7.0\ref\LounasMaksu.dll

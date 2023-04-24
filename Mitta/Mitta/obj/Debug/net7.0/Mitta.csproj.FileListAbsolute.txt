@@ -1,0 +1,15 @@
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\bin\Debug\net7.0\Mitta.exe
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\bin\Debug\net7.0\Mitta.deps.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\bin\Debug\net7.0\Mitta.runtimeconfig.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\bin\Debug\net7.0\Mitta.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\bin\Debug\net7.0\Mitta.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\obj\Debug\net7.0\Mitta.csproj.AssemblyReference.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\obj\Debug\net7.0\Mitta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\obj\Debug\net7.0\Mitta.AssemblyInfoInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\obj\Debug\net7.0\Mitta.AssemblyInfo.cs
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\obj\Debug\net7.0\Mitta.csproj.CoreCompileInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\obj\Debug\net7.0\Mitta.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\obj\Debug\net7.0\refint\Mitta.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\obj\Debug\net7.0\Mitta.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\obj\Debug\net7.0\Mitta.genruntimeconfig.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Mitta\Mitta\obj\Debug\net7.0\ref\Mitta.dll

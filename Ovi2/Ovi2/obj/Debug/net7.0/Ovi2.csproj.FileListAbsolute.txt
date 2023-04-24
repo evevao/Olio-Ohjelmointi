@@ -1,0 +1,15 @@
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\bin\Debug\net7.0\Ovi2.exe
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\bin\Debug\net7.0\Ovi2.deps.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\bin\Debug\net7.0\Ovi2.runtimeconfig.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\bin\Debug\net7.0\Ovi2.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\bin\Debug\net7.0\Ovi2.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\obj\Debug\net7.0\Ovi2.csproj.AssemblyReference.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\obj\Debug\net7.0\Ovi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\obj\Debug\net7.0\Ovi2.AssemblyInfoInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\obj\Debug\net7.0\Ovi2.AssemblyInfo.cs
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\obj\Debug\net7.0\Ovi2.csproj.CoreCompileInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\obj\Debug\net7.0\Ovi2.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\obj\Debug\net7.0\refint\Ovi2.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\obj\Debug\net7.0\Ovi2.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\obj\Debug\net7.0\Ovi2.genruntimeconfig.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Ovi2\Ovi2\obj\Debug\net7.0\ref\Ovi2.dll

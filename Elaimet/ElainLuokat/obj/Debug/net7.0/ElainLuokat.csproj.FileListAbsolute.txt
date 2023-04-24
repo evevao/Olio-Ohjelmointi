@@ -1,0 +1,12 @@
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\bin\Debug\net7.0\ElainLuokat.deps.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\bin\Debug\net7.0\ElainLuokat.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\bin\Debug\net7.0\ElainLuokat.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\obj\Debug\net7.0\ElainLuokat.csproj.AssemblyReference.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\obj\Debug\net7.0\ElainLuokat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\obj\Debug\net7.0\ElainLuokat.AssemblyInfoInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\obj\Debug\net7.0\ElainLuokat.AssemblyInfo.cs
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\obj\Debug\net7.0\ElainLuokat.csproj.CoreCompileInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\obj\Debug\net7.0\ElainLuokat.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\obj\Debug\net7.0\refint\ElainLuokat.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\obj\Debug\net7.0\ElainLuokat.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Elaimet\ElainLuokat\obj\Debug\net7.0\ref\ElainLuokat.dll
