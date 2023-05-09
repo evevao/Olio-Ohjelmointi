@@ -11,7 +11,7 @@ namespace VelkaKirja
 
         static void Main(string[] args)
         {
-            Velka laina = new Velka(1000,20);
+            Velka laina = new Velka(1000,5);
             laina.TulosSaldo();
             laina.OdotaVuosi();
             laina.TulosSaldo();

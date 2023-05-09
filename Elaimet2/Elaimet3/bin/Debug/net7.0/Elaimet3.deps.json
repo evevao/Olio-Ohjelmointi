@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Elaimet3/1.0.0": {
+        "dependencies": {
+          "Elainluokat": "1.0.0"
+        },
+        "runtime": {
+          "Elaimet3.dll": {}
+        }
+      },
+      "Elainluokat/1.0.0": {
+        "runtime": {
+          "Elainluokat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elaimet3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Elainluokat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
