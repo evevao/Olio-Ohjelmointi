@@ -1,0 +1,15 @@
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\bin\Debug\net7.0\Periytyminen.exe
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\bin\Debug\net7.0\Periytyminen.deps.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\bin\Debug\net7.0\Periytyminen.runtimeconfig.json
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\bin\Debug\net7.0\Periytyminen.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\bin\Debug\net7.0\Periytyminen.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\obj\Debug\net7.0\Periytyminen.csproj.AssemblyReference.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\obj\Debug\net7.0\Periytyminen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\obj\Debug\net7.0\Periytyminen.AssemblyInfoInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\obj\Debug\net7.0\Periytyminen.AssemblyInfo.cs
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\obj\Debug\net7.0\Periytyminen.csproj.CoreCompileInputs.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\obj\Debug\net7.0\Periytyminen.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\obj\Debug\net7.0\refint\Periytyminen.dll
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\obj\Debug\net7.0\Periytyminen.pdb
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\obj\Debug\net7.0\Periytyminen.genruntimeconfig.cache
+C:\Users\ollil\OneDrive\Tiedostot\KOLU\Olio_ohjelmointi\Olio-Ohjelmointi\Periytyminen\Periytyminen\obj\Debug\net7.0\ref\Periytyminen.dll

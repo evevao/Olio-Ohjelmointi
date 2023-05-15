@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Elainluokat">
+      <HintPath>..\..\Elaimet2\Elainluokat\obj\Debug\net7.0\Elainluokat.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Elainluokat/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Elainluokat.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Elainluokat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elainluokat/1.0.0": {
+      "type": "project",
+      "path": "../Elainluokat/Elainluokat.csproj",
+      "msbuildProject": "../Elainluokat/Elainluokat.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Elainluokat >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ollil\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ollil\\OneDrive\\Tiedostot\\KOLU\\Olio_ohjelmointi\\Olio-Ohjelmointi\\Elaimet2\\Periytyminen\\Periytyminen.csproj",
+      "projectName": "Periytyminen",
+      "projectPath": "C:\\Users\\ollil\\OneDrive\\Tiedostot\\KOLU\\Olio_ohjelmointi\\Olio-Ohjelmointi\\Elaimet2\\Periytyminen\\Periytyminen.csproj",
+      "packagesPath": "C:\\Users\\ollil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ollil\\OneDrive\\Tiedostot\\KOLU\\Olio_ohjelmointi\\Olio-Ohjelmointi\\Elaimet2\\Periytyminen\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ollil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\ollil\\OneDrive\\Tiedostot\\KOLU\\Olio_ohjelmointi\\Olio-Ohjelmointi\\Elaimet2\\Elainluokat\\Elainluokat.csproj": {
+              "projectPath": "C:\\Users\\ollil\\OneDrive\\Tiedostot\\KOLU\\Olio_ohjelmointi\\Olio-Ohjelmointi\\Elaimet2\\Elainluokat\\Elainluokat.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

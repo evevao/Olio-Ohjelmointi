@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -81,6 +82,16 @@ namespace Elaimet
             Console.Write("Anna koiralle nimi:");
             koira.nimi = Console.ReadLine();
             Console.WriteLine("Koira: " + koira.koiraNimi());
+
+            Console.WriteLine("\n\n");
+
+
+            // Lihansyöjä testaus
+            Elain elain = new Elain();
+            elain.asetaElaimenNimi("Tarmo");
+            elain.asetaElaimenIka(3);
+            Console.WriteLine($"Eläin {elain.palautaElaimenNimi()} on {elain.palautaElaimenIka()} vuotta vanha.");
+            elain.AsetaOnLihansyoja(false);
 
             Console.Read();
         }
